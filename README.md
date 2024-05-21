@@ -6,7 +6,7 @@ This repository contains random Nuclei templates I've created. Most of them base
 To use the templates, you will need to install Nuclei and this `nuclei-zero-day` repository. Once you have installed Nuclei, you can run the following command to scan for vulnerabilities:
 
 ```bash
-nuclei -t github/nuclei-zero-day -u https://target.com
+nuclei -t github/topscoder/nuclei-zero-day -u https://target.com
 ```
 
 ## Installation
